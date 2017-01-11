@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="Teclado">
+        <SwitchPreference
+            android:key="blanco"
+            android:title="blanco"
+            android:summary="Teclado blanco"
+            android:defaultValue="false"
+            />
+        <!--android:persistent="true"-->
+        <Preference android:title="Añadir teclado al sistema"
+            android:key="@string/myCoolButton"
+            android:summary="Pinchame para ir a ajustes. ver:0.3"/>
+    </PreferenceCategory>
+</PreferenceScreen>

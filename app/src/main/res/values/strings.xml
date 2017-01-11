@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Myke</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="my_keyboard">MyKe</string>
+    <string name="sybtype_es_ES">Spanish (ES)</string>
+    <string name="red">red</string>
+    <string name="alternates_for_a">áàâãäåæ</string>
+    <string name="alternates_for_e">éèêë</string>
+    <string name="alternates_for_i">ìïí</string>
+    <string name="alternates_for_o">òöºó</string>
+    <string name="alternates_for_u">úùûü</string>
+    <string name="pincha_en_la_imagen_para_elegir_color_de_teclado">Pincha en la imagen para elegir color de teclado</string>
+    <string name="puedes_probar_el_teclado_aqui_abajo_pincha_en_la_caja_y_en_el_icono_que_te_aparecer_arriba_donde_el_wifi_y_demas_le_das_al_de_teclado_obvio_si_no_te_aparece_myke_dale_a_seleccione_mas_al_menos_en_mi_caso_es_asi_y_le_das_despues_vuelves_a_dar_al_mismo_icono_y_ya_te_aparecer_myke_como_teclado_eso_si_te_avisar_de_que_la_aplicaci_n_recoger_todo_lo_que_escribas_aunque_es_un_poco_raro_es_obvio_es_un_teclado_xd_recoge_todo_lo_que_escribes_pero_digo_esto_que_no_va_ningun_dato_a_ningun_servidor_externo_palabrita">Puedes probar el teclado aqui abajo, pincha en la caja, y en el icono que te aparecerá arriba (donde el wifi y demas) le das, al de teclado obvio, si no te aparece Myke, dale a seleccione mas(al menos en mi caso es asi) y le das, despues vuelves a dar al mismo icono y ya te aparecerá Myke como teclado, eso si, te avisará de que la aplicación recogerá todo lo que escribas, aunque es un poco raro, es obvio, es un teclado xD recoge todo lo que escribes, pero digo esto que no va ningun dato a ningun servidor externo, palabrita</string>
+    <string name="myCoolButton" />
+</resources>
